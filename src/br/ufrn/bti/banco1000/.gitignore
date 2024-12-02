@@ -1,3 +1,5 @@
-idea
+# Ignorar a pasta .idea
+.idea/
 
-out
+# Ignorar a pasta out
+out/
